@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Psst. Update:
-I haven't created a new repository in months D:
-Sorry about that, but trust me, I've got big plans. 
