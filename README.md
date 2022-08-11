@@ -2,11 +2,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItzSmudge)](https://github.com/ryo-ma/github-profile-trophy)
 
 🔭 I’m currently working on building utility programs for Windows.
-
 🌱 I’m currently learning web development with Javascript and Python.
-
 💬 Ask me about operating systems (Except for macOS and Arch Linux distributions, sorry) and eithcal hacking.
-
 😄 Pronouns: He/Him
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSmudge)](https://github.com/anuraghazra/github-readme-stats)
