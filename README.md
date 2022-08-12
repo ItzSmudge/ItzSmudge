@@ -13,6 +13,10 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSmudge)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![image](https://user-images.githubusercontent.com/74146327/184449447-7dd6b585-0437-4080-8413-8fb16d2b239b.png)
+
 <!--
 **ItzSmudge/ItzSmudge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
