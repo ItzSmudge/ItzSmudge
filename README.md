@@ -14,6 +14,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSmudge)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSmudge&layout=compact&theme=nord)
+
 
 ![image](https://user-images.githubusercontent.com/74146327/184449447-7dd6b585-0437-4080-8413-8fb16d2b239b.png)
 
