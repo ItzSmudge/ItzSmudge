@@ -25,12 +25,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSmudge&layout=compact&theme=nord)
 
-<!--
-![image](https://user-images.githubusercontent.com/74146327/184449447-7dd6b585-0437-4080-8413-8fb16d2b239b.png)
--->
-![image](https://user-images.githubusercontent.com/74146327/210696782-75c9f4ab-864e-4c78-8b50-9836953cda0e.png)
-
-<!--
 **ItzSmudge/ItzSmudge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
