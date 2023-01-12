@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning web development with Javascript and Python.
 
-💬 Ask me about operating systems and eithcal hacking.
+💬 Ask me about operating systems and ethical hacking.
 
 😄 Pronouns: He/Him
 
