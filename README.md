@@ -1,9 +1,9 @@
-### Hi there! 👋 I'm Savira. I'm a student interested in computers and tech.
+### Hello world! 👋 I'm Savira. I'm a student interested in computers and tech.
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItzSmudge)](https://github.com/ryo-ma/github-profile-trophy)
 
 🔭 I’m currently working on building utility programs for Windows.
 
-🌱 I’m currently learning web development with Javascript and Python.
+🌱 I’m currently learning about pen testing and networking.
 
 💬 Ask me about operating systems and ethical hacking.
 
