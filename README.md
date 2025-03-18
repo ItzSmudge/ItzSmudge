@@ -1,15 +1,19 @@
 ### Hello world! 👋 I'm Savira. I'm a student interested in computers and tech.
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItzSmudge)](https://github.com/ryo-ma/github-profile-trophy)
 
-🔭 I’m currently working on building utility programs for Windows.
+🔭 I’m currently working on building utility programs for Windows
 
-🌱 I’m currently learning about pen testing and networking.
+🌱 I’m currently learning about pen testing and networking
 
-💬 Ask me about operating systems and ethical hacking.
+📖 Doing an undergraduate course in robotics and AI
+
+💬 Ask me about operating systems and ethical hacking
 
 😄 Pronouns: He/Him
 
-<h3>Languages I use</h3>
+📫 How to reach me: LinkedIn profile link below
+
+<h3>Tools I've used</h3>
 
 <p>
 <a  href="https://www.python.org"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python"  width="40"  height="40"/>  </a>
