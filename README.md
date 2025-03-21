@@ -27,7 +27,7 @@
 ![](https://komarev.com/ghpvc/?username=ItzSmudge)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSmudge&theme=nord&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzSmudge&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSmudge&layout=compact&theme=dark)
 
