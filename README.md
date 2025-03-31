@@ -24,7 +24,6 @@
 <a  href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer">  <img  src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  alt="css3"  width="40"  height="40"/>  </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=ItzSmudge)
 
 ![](https://raw.githubusercontent.com/ItzSmudge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
