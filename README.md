@@ -26,9 +26,9 @@
 
 ![](https://komarev.com/ghpvc/?username=ItzSmudge)
 
-![](https://raw.githubusercontent.com/Itz_Smudge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ItzSmudge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://raw.githubusercontent.com/Itz_Smudge/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ItzSmudge/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 
