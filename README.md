@@ -13,6 +13,13 @@
 
 📫 How to reach me: LinkedIn profile link below
 
+
+
+![](https://raw.githubusercontent.com/ItzSmudge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/ItzSmudge/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
 <h3>Tools I've used</h3>
 
 <p>
@@ -23,11 +30,6 @@
 <a  href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer">  <img  src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  alt="css3"  width="40"  height="40"/>  </a>
 <a  href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer">  <img  src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  alt="css3"  width="40"  height="40"/>  </a>
 </p>
-
-
-![](https://raw.githubusercontent.com/ItzSmudge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/ItzSmudge/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 
