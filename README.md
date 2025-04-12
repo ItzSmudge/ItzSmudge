@@ -14,10 +14,7 @@
 📫 How to reach me: LinkedIn profile link below
 
 
-
-![](https://raw.githubusercontent.com/ItzSmudge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/ItzSmudge/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSmudge&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3>Tools I've used</h3>
