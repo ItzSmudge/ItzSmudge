@@ -14,7 +14,7 @@
 📫 How to reach me: LinkedIn profile link below
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSmudge&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Tools I've used</h3>
 
