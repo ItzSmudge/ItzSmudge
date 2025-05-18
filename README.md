@@ -9,8 +9,6 @@
 
 💬 Ask me about operating systems and ethical hacking
 
-😄 Pronouns: He/Him
-
 📫 How to reach me: LinkedIn profile link below
 
 
