@@ -1,4 +1,4 @@
-### Hello world! 👋 I'm Savira. I'm a student interested in computers and tech.
+### Hello world! 👋 I'm Helitha. I'm a student interested in computers and tech.
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItzSmudge)](https://github.com/ryo-ma/github-profile-trophy)
 
 🔭 I’m currently working on building utility programs for Windows
@@ -23,6 +23,7 @@
 <a  href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3"  width="40"  height="40"/>  </a>
 <a  href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer">  <img  src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  alt="css3"  width="40"  height="40"/>  </a>
 <a  href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer">  <img  src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  alt="css3"  width="40"  height="40"/>  </a>
+<a  href="https://www.arduino.cc/"  target="_blank"  rel="noreferrer">  <img  src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg"  alt="css3"  width="40"  height="40"/>  </a>
 </p>
 
 
