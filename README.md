@@ -1,5 +1,5 @@
 ### Hello world! 👋 I'm Helitha. I'm a student interested in computers and tech.
-[![trophy](https://github-profile-trophy.vercel.app/?username=ItzSmudge)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ItzSmudge)](https://github.com/ryo-ma/github-profile-trophy) 
 
 🔭 I’m currently working on building utility programs for Windows
 
