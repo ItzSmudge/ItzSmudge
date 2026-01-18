@@ -23,7 +23,7 @@
 <a  href="https://www.w3schools.com/c/"  target="_blank"  rel="noreferrer">  <img  src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  alt="css3"  width="40"  height="40"/>  </a>
 <a  href="https://in.mathworks.com/products/matlab.html"  target="_blank"  rel="noreferrer">  <img  src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"  alt="css3"  width="40"  height="40"/>  </a>
 <a  href="https://www.arduino.cc/"  target="_blank"  rel="noreferrer">  <img  src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg"  alt="css3"  width="40"  height="40"/>  </a>
-<a  href="[https://www.arduino.cc/](https://rust-lang.org/)"  target="_blank"  rel="noreferrer">  <img  src="[https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg)"  alt="css3"  width="40"  height="40"/>  </a>
+<a  href="https://rust-lang.org/"  target="_blank"  rel="noreferrer">  <img  src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"  alt="css3"  width="40"  height="40"/>  </a>
 </p>
 
 
